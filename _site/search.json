@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hello, I’m Felix Schulz 👋",
+    "section": "About Me",
+    "text": "About Me\nI am a final-year master’s student in Data Science and Economics at the University of Tübingen, Germany. Throughout my academic journey I have been fortunate to work as a research assistant at several universities across Germany. My passion lies in environmental and development economics, where I seek to make meaningful contributions to address pressing global challenges.\nAs a research assistant, I have had the privilege of working on several inspiring research projects at different universities in Germany. My Bachelor dissertation on the interdependency of electric vehicle ownership and the availability of charging infrastructure in Norway was published in Energy Policy (link). I have also participated in a research project on the impact of an opening-and-testing experiment on health outcomes during the COVID-19 pandemic. The resulting paper was published in PLOS ONE (link).\nDuring my ongoing Masters studies I have developed a deep interest in harnessing the power of machine learning to derive innovative insights and create novel datasets that can shed light on complex economic and environmental phenomena."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Hello, I’m Felix Schulz 👋",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nDevelopment Economics\nEnvironmental Economics\nMachine Learning"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Hello, I’m Felix Schulz 👋",
+    "section": "Education",
+    "text": "Education\n\nM.Sc. in Data Science in Business and Economics - Eberhard Karls University of Tübingen, ongoing\nB.Sc. in Business Information Systems - Technical University of Darmstadt, 2021"
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "Hello, I’m Felix Schulz 👋",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nStudent Assistant - Department of Marketing\n\nEberhard Karls University of Tübingen, Oct 2021 – May 2023\n\nConducted research on large-scale Scientific Computing using Docker and AWS\nAssisted in the preparation of lectures, assignments and seminars. This often involved writing R code and markdown documents\nProgrammed several solutions in R for administrative automation at the chair\n\n\n\n\nWorking Student ServiceNow Development\n\nPlanHorizon GmbH, Apr 2021 – Aug 2022\n\nPrepared and presented solution demonstrators for pre-sales in frontier industries (Pharmaceuticals and Chemistry)\nDeveloped an AI solution for mail categorization in JavaScript on the ServiceNow Now Platform\nCreated a functional prototype for a ServiceNow ITBM solution in Pharma R&D management. This encompasses additional working experience in html and Angular JS\n\n\n\n\nStudent Research Assistant - Department of Macroeconomics\n\nJohannes Gutenberg-University Mainz, Sep 2020 – Oct 2021\n\nCo-authored a research paper on the Covid pandemic published in PLOS ONE. Responsible of data management, visualizations and statistical programming in R and Stata\nAssisted Prof. Dr. Wälde at the Chair of Macroeconomics with his empirical research\nCreated lecture slides using R and REST API interfaces"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Hello, I’m Felix Schulz 👋",
+    "section": "Publications",
+    "text": "Publications\nPublic charging infrastructure and electric vehicles in Norway with Johannes Rode published in Energy Policy, 160, 2022 [Dataset and Replication Material]\nIs large-scale rapid CoV-2 testing a substitute for lockdowns? with Marc Diederichs, René Glawion, Peter G. Kremsner, Timo Mitze, Gernot J. Müller, Dominik Papies, Klaus Wälde published in PLOS ONE 17(3): e0265207, 2022 [Dataset and Replication Material]"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Hello, I’m Felix Schulz 👋",
+    "section": "Contact",
+    "text": "Contact\nFeel free to get in touch with me via email at f.schulz@student.uni-tuebingen.de. You can also connect with me on LinkedIn and GitHub.\n\nThank you for visiting my website!"
+  }
+]
