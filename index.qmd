@@ -3,7 +3,7 @@ title: Hello, I'm Felix Schulz 👋
 description: Welcome to my personal website! I am Masters student and research assistant passionate about Economics and Data Science.
 ---
 
-![](resources/Bild%20Felix%20Schulz.jpg){width=300}
+![](resources/Photo%20Felix%20Schulz.jpg){width=300}
 
 ## About Me
 
