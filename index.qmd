@@ -13,18 +13,18 @@ As a research assistant, I have had the privilege of working on several inspirin
 
 During my ongoing Masters studies I have developed a deep interest in harnessing the power of machine learning to derive innovative insights and create novel datasets that can shed light on complex economic and environmental phenomena.
 
-## Research Interests
-
-- Development Economics
-- Environmental Economics
-- Machine Learning
-
 ## Education
 
 - **M.Sc. in Data Science in Business and Economics** - Eberhard Karls University of Tübingen, ongoing
 - **B.Sc. in Business Information Systems** - Technical University of Darmstadt, 2021
 
 ## Work Experience
+
+#### Research Assistant Social Data Science Labs
+##### Monash University, Aug 2023 – January 2024
+
+- Co-authored forthcoming research on using daylight satellite imagery to predict economic activity in developing countries with Klaus Ackermann and Paul Raschky
+- Programmed several neural networks for semantic segmentation. Implemented custom ResNets, EfficientNets and Vision Transformers in TensorFlow from scratch
 
 #### Student Assistant - Department of Marketing
 ##### Eberhard Karls University of Tübingen, Oct 2021 – May 2023
