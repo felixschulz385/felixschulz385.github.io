@@ -5,9 +5,7 @@ project:
 website:
   title: "Felix Schulz"
   navbar:
-    left:
-      - href: index.qmd
-        text: About Me
+    search: false
 
 format:
   html:
