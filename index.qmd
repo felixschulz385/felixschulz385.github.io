@@ -1,21 +1,20 @@
 ---
-title: Hello, I'm Felix Schulz 👋
-description: Welcome to my personal website! I am Masters student and research assistant passionate about Economics and Data Science.
+title: About Me
+description: Welcome to my personal website! I am PhD student passionate about Economics and Data Science.
 ---
 
 ![](resources/Photo%20Felix%20Schulz.jpg){width=300}
 
 ## About Me
 
-I am a final-year master's student in Data Science and Economics at the University of Tübingen, Germany. Throughout my academic journey I have been fortunate to work as a research assistant at several universities across Germany. My passion lies in environmental and development economics, where I seek to make meaningful contributions to address pressing global challenges.
+I am a first-year doctoral student in Health Economics at the University of Basel, Switzerland. My passion lies in the economics of the environment and health.
 
-As a research assistant, I have had the privilege of working on several inspiring research projects at different universities in Germany. My Bachelor dissertation on the interdependency of electric vehicle ownership and the availability of charging infrastructure in Norway was published in Energy Policy ([link](https://doi.org/10.1016/j.enpol.2021.112660)). I have also participated in a research project on the impact of an opening-and-testing experiment on health outcomes during the COVID-19 pandemic. The resulting paper was published in PLOS ONE ([link](https://doi.org/10.1371/journal.pone.0265207)).
-
-During my ongoing Masters studies I have developed a deep interest in harnessing the power of machine learning to derive innovative insights and create novel datasets that can shed light on complex economic and environmental phenomena.
+In my roles as a research assistant before starting my PhD, I have had the privilege of working on several inspiring research projects. My Bachelor thesis on the interdependency of electric vehicle ownership and the availability of charging infrastructure in Norway was published in Energy Policy ([link](https://doi.org/10.1016/j.enpol.2021.112660)). I have also participated in a research project on the impact of an opening-and-testing experiment on health outcomes during the COVID-19 pandemic. The resulting paper was published in PLOS ONE ([link](https://doi.org/10.1371/journal.pone.0265207)). During my ongoing Masters studies I have developed a deep interest in using machine learning to derive innovative insights that can shed light on complex economic and environmental phenomena.
 
 ## Education
 
-- **M.Sc. in Data Science in Business and Economics** - Eberhard Karls University of Tübingen, ongoing
+- **M.Sc. in Data Science in Business and Economics** - Eberhard Karls University of Tübingen, 2024
+- **Semester Abroad** - Monash University, Melbourne, 2023
 - **B.Sc. in Business Information Systems** - Technical University of Darmstadt, 2021
 
 ## Work Experience
@@ -23,7 +22,7 @@ During my ongoing Masters studies I have developed a deep interest in harnessing
 #### Research Assistant Social Data Science Labs
 ##### Monash University, Aug 2023 – January 2024
 
-- Co-authored forthcoming research on using daylight satellite imagery to predict economic activity in developing countries with Klaus Ackermann and Paul Raschky
+- Collaborated on research on using daylight satellite imagery to predict economic activity in developing countries with Klaus Ackermann and Paul Raschky
 - Programmed several neural networks for semantic segmentation. Implemented custom ResNets, EfficientNets and Vision Transformers in TensorFlow from scratch
 
 #### Student Assistant - Department of Marketing
@@ -61,7 +60,7 @@ published in PLOS ONE 17(3): e0265207, 2022<br>
 
 ## Contact
 
-Feel free to get in touch with me via email at [f.schulz@student.uni-tuebingen.de](mailto:f.schulz@student.uni-tuebingen.de). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/felix-schulz-a41bab165/) and [GitHub](https://github.com/felixschulz385).
+Feel free to get in touch with me via email at [felix.schulz@unibas.ch](mailto:felix.schulz@unibas.ch). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/schulz-felix/) and [GitHub](https://github.com/felixschulz385).
 
 ---
 
