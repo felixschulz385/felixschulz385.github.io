@@ -6,6 +6,9 @@ website:
   title: "Felix Schulz"
   navbar:
     search: false
+  page-footer: |
+    © 2024 Felix Schulz. All rights reserved.  
+    This website is built using Quarto.
 
 format:
   html:
